@@ -7,6 +7,6 @@ Site: http://www.lemonban.com
 Forum: http://testingpai.com 
 """
 testdate = {"url":"http://erp.lemfix.com/login.html",
-            "name":"sunny",
+            "name":"test123",
             "passwd":"123456",
-            "key":"566"}
+            "key":"308"}
